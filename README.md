@@ -1,7 +1,7 @@
 # Backend Project
 
 ## Overview
-This is collation of all my backend projects from roadmap.sh.
+This is a collection of all my backend projects from roadmap.sh.
 
 ## Projects
 - **Markdown Note-taking App**: The Markdown Note-taking App is an app that lets users upload markdown files, check the grammar, save the note, and render it in HTML (https://roadmap.sh/projects/markdown-note-taking-app).
