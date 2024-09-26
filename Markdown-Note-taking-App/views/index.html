@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Notes App</title>
+    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+</head>
+
+<body>
+    <div id="container">
+        <h1>Save Note As A MarkDown File!</h1>
+        <textarea id="note-title" placeholder="Enter Note title ( MarkDown File Name)..."></textarea>
+        <textarea id="note-text" placeholder="Enter your note..."></textarea>
+        <div id="btn-container">
+            <button id="submitBtn" onclick="saveNote()">Save Note</button>
+        </div>
+        <div id="notes-list"></div>
+    </div>
+    <script src="./script.js"></script>
+</body>
+
+</html>
