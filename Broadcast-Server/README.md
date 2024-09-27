@@ -1,7 +1,10 @@
 # Broadcast-Server
 ![screenshot1](./screenshots/Screenshot(1).png)
+---
 ![screenshot2](./screenshots/Screenshot(2).png)
-![screenshot3](./screenshots/Screenshot(1).png)
+---
+![screenshot3](./screenshots/Screenshot(3).png)
+---
 ## Overview
 The Broadcast-Server is a real-time communication server that enables multiple clients to connect and exchange messages. It tracks connected clients, broadcasts messages with the sender's name, and provides an online user count. The server manages client disconnections seamlessly and includes an HTML interface for testing its functionality.
 ## Features
