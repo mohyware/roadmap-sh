@@ -32,4 +32,5 @@ JWT_LIFETIME=60d
 - DELETE /api/todo/:id
 - GET /api/todo
 
-https://roadmap.sh/projects/todo-list-api
+## Project Url
+https://roadmap.sh/projects/ecommerce-api
