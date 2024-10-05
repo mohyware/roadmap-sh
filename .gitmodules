@@ -1,0 +1,6 @@
+[submodule "To-Do-List-Api"]
+	path = To-Do-List-Api
+	url = https://github.com/mohyware/To-Do-List-Api.git
+[submodule "E-Commerce-API"]
+	path = E-Commerce-API
+	url = https://github.com/mohyware/E-Commerce-API.git
